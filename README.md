@@ -6,6 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowfever-Ding&layout=compact&theme=tokyonight)
 
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=slowfever-Ding)](https://github.com/anuraghazra/github-readme-stats)
+
 :blush:
 
 
