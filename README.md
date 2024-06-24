@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=slowfever-Ding&show_icons=true&theme=transparent)
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=slowfever-Ding)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/slowfever-Ding/count.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowfever-Ding&layout=compact&theme=tokyonight)
-
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=slowfever-Ding)](https://github.com/anuraghazra/github-readme-stats)
 
 :blush:
 
