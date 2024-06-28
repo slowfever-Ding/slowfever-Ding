@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=slowfever-Ding)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slowfever-Ding&show_icons=true&theme=radical)
 
 ![Visitor Count](https://profile-counter.glitch.me/slowfever-Ding/count.svg)
 
