@@ -21,11 +21,13 @@
 **Frameworks and Tools:**
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=Bootstrap&logoColor=fff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 ![Sass](https://img.shields.io/badge/Sass-cc6699?logo=Sass&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=educative&logoColor=fff)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=jetbrains&logoColor=white)
 
 **GitHub Stats:**
 
